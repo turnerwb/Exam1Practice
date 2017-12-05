@@ -236,6 +236,7 @@ def problem0b(n):
             count = count + 1
     return count
 
+
 def run_test_problem0c():
     """ Tests the   problem0c  function. """
     print()
@@ -314,4 +315,6 @@ def problem0c(circle, n, window):
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
+
+
 main()
